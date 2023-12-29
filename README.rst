@@ -7,8 +7,11 @@ A prototype CLI-based tool made with Python.
 Project Idea
 ------------
 
-A CLI-based password manager that encrypts and decrypts the data stored in a
-file-based database.
+1. A CLI-based password manager that encrypts and decrypts the data stored in a
+   file-based database.
+
+2. A tool that sends a request to a public Weather API and returns the weather
+   forecasts of a specific location.
 
 License
 =======
