@@ -6,6 +6,15 @@ A prototype CLI-based tool made with Python.
 
 **Seed CLI** is a CLI-based password manager inspired by Bitwarden.
 
+Getting Started
+===============
+
+* Create a virtual environment.
+
+::
+
+    python -m venv ./venv
+
 License
 =======
 
