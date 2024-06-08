@@ -12,7 +12,7 @@ with open('LICENSE') as f:
 setup(
     name='seed-cli',
     version='0.1.0',
-    description='A CLI-based tool made with Python.',
+    description='A CLI-based password manager.',
     long_description=readme,
     author='Billy Arante',
     author_email='arantebillywilson@gmail.com',

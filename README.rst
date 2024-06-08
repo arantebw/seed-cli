@@ -9,11 +9,18 @@ A prototype CLI-based tool made with Python.
 Getting Started
 ===============
 
-* Create a virtual environment.
+* Create a virtual environment, then activate it.
 
 ::
 
     python -m venv ./venv
+    source ./venv/bin/activate
+
+* Install the project's dependencies.
+
+::
+
+    python -m pip install -r requirements.txt
 
 License
 =======
