@@ -1,6 +1,6 @@
 """Top-level package for Seed CLI."""
 
-__app_name__ = "seed-cli"
+__app_name__ = "seed_cli"
 __version__ = "0.1.0"
 
 (
